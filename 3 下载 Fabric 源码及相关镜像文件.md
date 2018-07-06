@@ -39,12 +39,19 @@ Fabric 多机分布式网络搭建过程中需要使用 Fabric 源码中的工�
 Fabric 需要用到的镜像主要有以下几种：
 
 hyperledger/fabric-tools
+
 hyperledger/fabric-orderer
+
 hyperledger/fabric-peer
+
 hyperledger/fabric-couchdb
+
 hyperledger/fabric-kafka
+
 hyperledger/fabric-ca
+
 hyperledger/fabric-ccenv
+
 hyperledger/fabric-baseimage
 
 

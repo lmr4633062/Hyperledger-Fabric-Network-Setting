@@ -62,6 +62,7 @@ root@dd815a900955:/opt/gopath/src/github.com/hyperledger/fabric/peer#
 这里使用官方脚本自动化执行的各个操作，如果不想使用脚本也可以根据[官网](http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html)的指南，通过手动方式一台服务器一台服务器地配置，分别执行加入通道，更新锚节点，创建 ChainCode，初始化账户，查询，转账，再次查询等链码的各个操作。
 
 参考资料：
+
 1 [Hyperledger Fabric 1.0 从零开始](http://www.cnblogs.com/aberic/p/7527831.html)
 
 2 [A Blockchain Platform for the Enterprise](http://hyperledger-fabric.readthedocs.io/en/release-1.2/whatis.html)

@@ -2,7 +2,7 @@
 
 ---
 
-## 运行 e2e_cli 项目
+## 4.1 运行 e2e_cli 项目
 进入到/opt/gopath/src/github.com/hyperledger/fabric/examples/e2e_cli目录下，看到如 [Github项目](https://github.com/hyperledger/fabric/tree/release-1.1/examples/e2e_cli) 所示文件。
 
 使用如下命令进入 e2e_cli 目录：
@@ -36,7 +36,7 @@ Query Result: 90
 
 如果是在虚拟机中部署的，上述测试成功后可以创建快照，以便以后遇到问题可以恢复快照重来。
 
-## 运行问题解决
+## 4.2 运行问题解决
 ### 问题 1 
 该 Fabric 网络集群测试环境在 Linux 内核低版本上可能会出现问题，如执行 chaincode 初始化的时候报错，导致集群单机无法启动，这是旧版内核的bug。
 

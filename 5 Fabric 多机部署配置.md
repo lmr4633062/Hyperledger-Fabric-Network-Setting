@@ -19,7 +19,7 @@ Server 3 | 192.168.119.115 | sp1 |peer1.org1.example.com|Org1
 Server 4 | 192.168.119.116 | sp2 |peer0.org2.example.com|Org2
 Server 5 | 192.168.119.117 | sp3 |Peer1.org2.example.com|Org2
 
-主要是指修改对应服务器的主机名 Hostname。
+主要是指修改对应服务器的主机名 Hostname，使 5 台服务器位于同一网络中而令 IP 地址如表所示位于同一网段。
 
 ## 5.2 生成公私钥、证书、创世区块
 公私钥和证书是用于 Server 与 Server 之间的安全通信，另外要创建 channel 并让其它节点加入 channel 就需要首先创建创世区块，公私钥、证书、创世区块都可以通过命令生成，这里官方已经给出了脚本 `generateArtifacts.sh`，在目录 `/opt/gopath/src/github.com/hyperledger/fabric/examples/e2e_cli/` 中可以看到。

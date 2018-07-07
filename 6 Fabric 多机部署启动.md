@@ -63,5 +63,7 @@ root@dd815a900955:/opt/gopath/src/github.com/hyperledger/fabric/peer#
 
 参考资料：
 1 [Hyperledger Fabric 1.0 从零开始](http://www.cnblogs.com/aberic/p/7527831.html)
+
 2 [A Blockchain Platform for the Enterprise](http://hyperledger-fabric.readthedocs.io/en/release-1.2/whatis.html)
+
 3 [Setting up a Blockchain Business Network With Hyperledger Fabric & Composer Running in Multiple Physical Machine](https://www.skcript.com/svr/setting-up-a-blockchain-business-network-with-hyperledger-fabric-and-composer-running-in-multiple-physical-machine/)
